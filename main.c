@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main () 
-{ int a=10,b=20;
+{ int s, a=10,b=20;
 
-printf ("les deux entiers:",a,b);
-
-
+s=a+b;
+printf("somme de a et b  s=%d",s);
 }
